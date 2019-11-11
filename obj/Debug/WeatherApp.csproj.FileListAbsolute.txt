@@ -1,0 +1,9 @@
+C:\Users\Danon\Documents\C#\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Danon\Documents\C#\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Danon\Documents\C#\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.pdb
