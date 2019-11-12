@@ -7,3 +7,6 @@ C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.Properties.Resources
 C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
 C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.exe
 C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Danon\Documents\C#\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danon\Documents\C#\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danon\Documents\C#\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete

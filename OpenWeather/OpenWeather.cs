@@ -9,9 +9,9 @@ namespace WeatherApp.OpenWeather
 {
     class OpenWeather
     {
-        [JsonProperty("base")]
         public coord coord;
         public weather[] weather;
+        [JsonProperty("base")]
         public string Base;
         public main main;
         public double visibility;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeatherApp.OpenWeather
 {
-    class main
+    public class main
     {
         public double _temp;
 
